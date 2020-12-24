@@ -1,4 +1,4 @@
-### Web Development - Full Stack Ruby on Rails - The Odin Project Specialization
+# Web Development - Full Stack Ruby on Rails - The Odin Project Specialization
 
 Complete [The Odin Project - Full Stack Ruby on Rails](https://www.theodinproject.com/tracks/full-stack-ruby-on-rails) free online Fullstack Bootcamp. You may elect to complete this specialization only once.
 

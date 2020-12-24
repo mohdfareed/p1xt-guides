@@ -59,7 +59,7 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 **Note:** In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
 
-## Junior developer
+## Junior Developer
 
 ### Tier X - Math Prep
 
@@ -90,24 +90,24 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
 
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |    Done    |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |    Done    |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |   Doing    |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQL                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+| Courses                                                                                                                                                               |   Status    |   Evidence   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :----------: |
+| Welcome To Coding                                                                                                                                                     |  Completed  |              |
+| Full Stack Online - Intro to Programming                                                                                                                              |  Completed  |              |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  | In Progress |              |
+| Full Stack Online - Ruby                                                                                                                                              |             |              |
+| Full Stack Online - SQL                                                                                                                                               |             |              |
+| Full Stack Online - Rails                                                                                                                                             |             |              |
+| Full Stack Online - JavaScript                                                                                                                                        |             |              |
+| Full Stack Online - React                                                                                                                                             |             |              |
+| Full Stack Online - Full Stack Project                                                                                                                                |             |              |
+| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |             |              |
+| Full Stack Online - Job Search                                                                                                                                        |             |              |
+| Full Stack Online - Docker                                                                                                                                            |             |              |
+| Full Stack Online - GraphQL                                                                                                                                           |             |              |
+| Full Stack Online - Data Structures and Algorithms                                                                                                                    |             |              |
+| **Capstone**                                                                                                                                                          | **Status**  | **Evidence** |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |             |              |
 
 ### Tier 1 - Getting Started
 
@@ -140,8 +140,6 @@ If you didn't do App Academy Open in Tier 0, please consider doing it as your Sp
 | Tier Programming Project                                                                                                                                                                               |            |              |
 | **Specialization**                                                                                                                                                                                     | **Status** | **Evidence** |
 | Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization. |            |              |
-
-<br><br>
 
 ## Intermediate Developer
 
@@ -210,8 +208,6 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 | Tier Programming Project                                                                                                                                                                                                                                   |            |              |
 | **Specialization**                                                                                                                                                                                                                                         | **Status** | **Evidence** |
 | Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization                                                      |            |              |
-
-<br><br>
 
 ## Advanced Developer
 

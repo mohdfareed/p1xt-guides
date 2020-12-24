@@ -64,7 +64,7 @@ Note: Either use the theme as inspiration, coding similar features but using you
 - Support Tickets
 - Community Chat
 
-**Clone a favorite game (or create a new one) as a Web, Mobile, or Desktop App**
+**Clone a favorite game (or create a new one) as a Web, Mobile, or Desktop App:**
 
 ## To Practice Algorithms and Data Structures
 
@@ -81,14 +81,14 @@ Note: Either use the theme as inspiration, coding similar features but using you
 
 ## To Practice working with others
 
-**Contribute to Open Source**
+**Contribute to Open Source:**
 
 - [CodeTriage](https://www.codetriage.com/)
 - [First Timers Only](http://www.firsttimersonly.com/)
 
 [This site](https://opensource.guide/how-to-contribute/) has a ton of information about how to break into open source.
 
-**Enter a hackathon**
+**Enter a hackathon:**
 
 - [list on devpost](https://devpost.com/hackathons?utf8=%E2%9C%93&search=&challenge_type=online&sort_by=Submission+Deadline)
 - [HackerRank Contests](https://www.hackerrank.com/contests)

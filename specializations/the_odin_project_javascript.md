@@ -1,4 +1,4 @@
-### Web Development - Full Stack JavaScript- The Odin Project Specialization
+# Web Development - Full Stack JavaScript- The Odin Project Specialization
 
 Complete [The Odin Project - Full Stack JavaScript](https://www.theodinproject.com/tracks/full-stack-javascript) free online Fullstack Bootcamp. You may elect to complete this specialization only once.
 

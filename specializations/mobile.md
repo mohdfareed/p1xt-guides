@@ -3,7 +3,7 @@
 Pick your targeted mobile platform and complete the following:  
 **Note:** All Projects should target your selected mobile platform
 
-**Helpful Links**
+**Helpful Links:**
 
 - [Nativescript](https://www.nativescript.org/) for iOS or Android
 - [React Native](https://facebook.github.io/react-native/) for iOS or Android

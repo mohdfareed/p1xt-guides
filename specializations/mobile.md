@@ -10,6 +10,9 @@ Pick your targeted mobile platform and complete the following:
 - [Ionic](https://ionicframework.com/) for iOS or Android
 - [Xamarin](https://visualstudio.microsoft.com/xamarin/) for iOS or Android
 - [Swift](https://developer.apple.com/swift/) and [iOS](https://developer.apple.com/develop/)
+  - [Hacking with Swift](https://www.hackingwithswift.com)
+  - [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu)
+  - [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - [Kotlin](https://kotlinlang.org/) and [Android](https://developer.android.com/)
   You may elect to complete this specialization more than once by selecting it as your capstone for multiple tiers.
 
